@@ -11,4 +11,4 @@ Simple index of my work. Nothing special just to keep everything in one place
 
 [Basic HTTP server and client, with clients using TCP socket for P2P connection developed using GO](https://github.com/Rep2/GOSimpleClientServer)
 
-[Simple RESTful web service exposing 2 resources, service test and log](https://github.com/Rep2/QUIZ)
+[Simple RESTful web service exposing 2 resources, service tests and log](https://github.com/Rep2/QUIZ)
